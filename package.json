@@ -1,0 +1,24 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "restapi application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvinraykhan11/rest_api.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "vinray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvinraykhan11/rest_api/issues"
+  },
+  "homepage": "https://github.com/alvinraykhan11/rest_api#readme"
+}
